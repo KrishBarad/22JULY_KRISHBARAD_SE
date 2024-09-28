@@ -1,0 +1,6 @@
+ID: 1
+NAME: krish
+CITY: kodinar
+ID: 2
+NAME: ashu
+CITY: porbandar
